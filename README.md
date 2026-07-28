@@ -40,17 +40,6 @@ The project includes:
 ## 📁 Files
 - Car_Sales_Data_Analysis.ipynb - Python analysis notebook
 - car_sales.csv - Dataset file
-  
-## 📊 Project Visualizations
-
-### Car Features Analysis
-![Car Features](car_features_analysis.png)
-
-### Price, Length and Weight Distribution
-![Distribution](price_length_weight_histogram.png)
-
-### Price vs Resale Value & Unit Sales
-![Sales Analysis](price_resale_units_analysis.png)
 
 ## 👩‍💻 Author
 Kashish Dhawas
