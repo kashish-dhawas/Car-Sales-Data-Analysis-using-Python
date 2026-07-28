@@ -41,5 +41,13 @@ The project includes:
 - Car_Sales_Data_Analysis.ipynb - Python analysis notebook
 - car_sales.csv - Dataset file
 
+  ## 📊 Project Visualizations
+
+### Horsepower vs Price Analysis
+![Horsepower vs Price](horsepower_vs_price.png)
+
+### Price Distribution Analysis
+![Price Distribution](price_distribution.png)
+
 ## 👩‍💻 Author
 Kashish Dhawas
