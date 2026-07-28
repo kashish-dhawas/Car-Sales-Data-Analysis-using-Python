@@ -32,6 +32,14 @@ The project includes:
 - Unit sales analysis
 - Correlation analysis charts
 
+## 📊 Project Visualizations
+
+### Horsepower vs Price Analysis
+![Horsepower vs Price](horsepower_vs_price.png)
+
+### Price Distribution Analysis
+![Price Distribution](price_distribution.png)
+
 ## 📈 Key Insights
 - Horsepower shows a strong positive relationship with car price.
 - Premium manufacturers have higher average car prices.
@@ -40,14 +48,6 @@ The project includes:
 ## 📁 Files
 - Car_Sales_Data_Analysis.ipynb - Python analysis notebook
 - car_sales.csv - Dataset file
-
-  ## 📊 Project Visualizations
-
-### Horsepower vs Price Analysis
-![Horsepower vs Price](horsepower_vs_price.png)
-
-### Price Distribution Analysis
-![Price Distribution](price_distribution.png)
 
 ## 👩‍💻 Author
 Kashish Dhawas
