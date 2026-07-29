@@ -35,10 +35,10 @@ The project includes:
 ## 📊 Project Visualizations
 
 ### Horsepower vs Price Analysis
-![Horsepower vs Price](horsepower_vs_price.png)
+![Horsepower vs Price](Horsepower_vs_Price.png)
 
 ### Price Distribution Analysis
-![Price Distribution](price_distribution.png)
+![Price Distribution](Price_Distribution.png)
 
 ## 📈 Key Insights
 - Horsepower shows a strong positive relationship with car price.
